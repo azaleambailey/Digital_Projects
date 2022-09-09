@@ -23,6 +23,10 @@ A scrapbook of Azalea's digital projects.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GA7YSyHe40o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Baking Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nKsE1_r4Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Links
 
